@@ -1,6 +1,6 @@
 #A Writer's Toolkit
 
-[Live link](https://f80049f240420958b0605fc12df6bd3e91812d8d.googledrive.com/host/0B4wcXGjHG_YNMnQ0OEVrNWVJUGs/The%20Writer's%20Toolkit.html)
+[Live link](https://angrobertsh.github.io/a-writer-s-toolkit)
 
 ##Instructions
 
